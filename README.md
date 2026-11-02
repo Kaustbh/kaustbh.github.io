@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Kaustubh 👋
 
 I'm a software developer interested in open-source development, machine learning, and building things that solve real problems.
 
