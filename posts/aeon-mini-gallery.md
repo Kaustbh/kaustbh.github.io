@@ -442,7 +442,7 @@ The result is that Aeon's API reference pages can now display example notebooks 
 
 Instead of navigating separately to the examples section and searching for a relevant notebook, users can discover those examples directly from the API page.
 
-![Image](assets/images/mini-gallery.jpg)
+![The mini-gallery displayed on an Aeon API reference page](assets/images/mini-gallery.jpg)
 
 *The mini-gallery displayed on an Aeon API reference page.*
 
